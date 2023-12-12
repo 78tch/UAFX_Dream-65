@@ -41,74 +41,74 @@
 ## 5.Factory プリセット
 | No |Preset | MOD | SPEAKER | memo |
 | ---- | ---- | ---- | ---- | ---- |
-| 1 | 1x12 with 4x10 Stack |  |  |  |
-| 2 | Boutique D Blues |  |  |  |
-| 3 | Bright Switch Off JBF120 |  |  |  |
-| 4 | Bright Switch Off SVerb |  |  |  |
-| 5 | Chaos Helicopter |  |  |  |
-| 6 | Con 1x12 and 4x10 Combos |  |  |  |
-| 7 | D65 Break Up Ribbons |  |  |  |
-| 8 | Dyn 1x12 and 4x10 Combos |  |  |  |
-| 9 | EV12 Break Up Dynamics |  |  |  |
-| 10 | Hard Fast Trem |  |  |  |
-| 11 | Jerrys Twins |  |  |  |
-| 12 | Lead Greenback Mix |  |  |  |
-| 13 | Rib 1x12 and 4x10 Combos |  |  |  |
-| 14 | Smooth Ribbon Drive |  |  |  |
-| 15 | Split Cab GB n JBF Sizzle |  |  |  |
-| 16 | Studio Rhythm Chunk |  |  |  |
-| 17 | Super Neck Split Cab |  |  |  |
-| 18 | The Everything Works Tone |  |  |  |
-| 19 | Vintage Trem n Verb |  |  |  |
-| 20 | Warm JBF120s |  |  |  |
+| 1 | 1x12 with 4x10 Stack | ③D-TEX | ③EV12 |  |
+| 2 | Boutique D Blues | ③D-TEX | ④D65 |  |
+| 3 | Bright Switch Off JBF120 | ①LEAD | ⑥JBF120 |  |
+| 4 | Bright Switch Off SVerb | ①LEAD | ⑤S-Verb |  |
+| 5 | Chaos Helicopter | ①LEAD | ①GB25 |  |
+| 6 | Con 1x12 and 4x10 Combos | ②STOCK | ②OXFORD |  |
+| 7 | D65 Break Up Ribbons | ②STOCK | ④D65 |  |
+| 8 | Dyn 1x12 and 4x10 Combos | ②STOCK | ②OXFORD |  |
+| 9 | EV12 Break Up Dynamics | ③D-TEX | ③EV12 |  |
+| 10 | Hard Fast Trem | ②STOCK | ①GB25 |  |
+| 11 | Jerrys Twins | ②STOCK | ⑥JBF120 |  |
+| 12 | Lead Greenback Mix | ①LEAD | ①GB25 |  |
+| 13 | Rib 1x12 and 4x10 Combos | ②STOCK | ②OXFORD |  |
+| 14 | Smooth Ribbon Drive | ③D-TEX | ②OXFORD |  |
+| 15 | Split Cab GB n JBF Sizzle | ③D-TEX | ①GB25 |  |
+| 16 | Studio Rhythm Chunk | ①LEAD | ③EV12 |  |
+| 17 | Super Neck Split Cab | ③D-TEX | ⑤S-Verb |  |
+| 18 | The Everything Works Tone | ②STOCK | ②OXFORD |  |
+| 19 | Vintage Trem n Verb | ②STOCK | ②OXFORD |  |
+| 20 | Warm JBF120s | ②STOCK | ⑥JBF120 |  |
 
 ## 6.Artist プリセット
 | No |Preset | MOD | SPEAKER | memo |
 | ---- | ---- | ---- | ---- | ---- |
 ||Oz Noy||||
-| 1 | Oz Amp Drive |  |  |  |
-| 2 | Oz Super Trem n Verb |  |  |  |
-| 3 | Oz Super Verb |  |  |  |
+| 1 | Oz Amp Drive | ③D-TEX | ⑤S-Verb |  |
+| 2 | Oz Super Trem n Verb | ②STOCK | ⑤S-Verb |  |
+| 3 | Oz Super Verb | ②STOCK | ⑤S-Verb |  |
 ||Jessica Dobson|||(Deep Sea Diver)|
-| 1 | Chimey Grit |  |  |  |
-| 2 | Fuzzy Friend |  |  |  |
-| 3 | Sparkle Fest |  |  |  |
+| 1 | Chimey Grit | ②STOCK | ⑤S-Verb |  |
+| 2 | Fuzzy Friend | ③D-TEX | ①GB25 |  |
+| 3 | Sparkle Fest | ②STOCK | ①GB25 |  |
 | 4 | Trem Heaven |  |  |  |
 ||Cory Wong|||(Vulfpeck)|
-| 1 | Cory Bright |  |  |  |
-| 2 | Cory Clean |  |  |  |
+| 1 | Cory Bright | ②STOCK |  |  |
+| 2 | Cory Clean | ①LEAD |  |  |
 ||Derek Wells|||(Carrie Underwood)|
-| 1 | Empty Venue Soundcheck |  |  |  |
-| 2 | Hum On Loosely |  |  |  |
-| 3 | Strattlin' Bones |  |  |  |
-| 4 | Take The Solo |  |  |  |
+| 1 | Empty Venue Soundcheck | ②STOCK |  |  |
+| 2 | Hum On Loosely | ②STOCK |  |  |
+| 3 | Strattlin' Bones | ②STOCK |  |  |
+| 4 | Take The Solo | ②STOCK |  |  |
 ||Tim Pierce|||(Studio Ace)|
-| 1 | Single Coil Neck Grit Sweet Spot |  |  |  |
-| 2 | Tell E So Real It's Scary |  |  |  |
-| 3 | Ultimate Gib Meets Fen Tone |  |  |  |
+| 1 | Single Coil Neck Grit Sweet Spot | ①LEAD |  |  |
+| 2 | Tell E So Real It's Scary | ①LEAD |  |  |
+| 3 | Ultimate Gib Meets Fen Tone | ②STOCK |  |  |
 ||David Ryan Harris|||(John Mayer)|
-| 1 | Birmingham Tell E |  |  |  |
-| 2 | Eviction |  |  |  |
-| 3 | Shag Carpet |  |  |  |
+| 1 | Birmingham Tell E | ③D-TEX |  |  |
+| 2 | Eviction | ③D-TEX |  |  |
+| 3 | Shag Carpet | ②STOCK |  |  |
 | 4 | Williamsburg's Finest |  |  |  |  |
 ||Jim James|||(My Morning Jacket)|
-| 1 | JJs Clean Dream Three |  |  |  |
-| 2 | JJs Clean Dream Two |  |  |  |
-| 3 | JJs Clean Dream |  |  |  |
+| 1 | JJs Clean Dream Three | ②STOCK |  |  |
+| 2 | JJs Clean Dream Two | ②STOCK |  |  |
+| 3 | JJs Clean Dream | ②STOCK |  |  |
 ||Peter "Danish Pete" Honoré||||
-| 1 | Clean Trem Verb |  |  |  |
-| 2 | Clean Verb |  |  |  |
-| 3 | Crunch Noodles |  |  |  |
+| 1 | Clean Trem Verb | ①LEAD |  |  |
+| 2 | Clean Verb | ①LEAD |  |  |
+| 3 | Crunch Noodles | ①LEAD |  |  |
 | 4 | Crunchy Funk |  |  |  |
 | 5 | Tell E Bridge Rockin' |  |  |  |
 ||Nels Cline|||(Wilco)|
-| 1 | Clean n Warm |  |  |  |
+| 1 | Clean n Warm | ②STOCK |  |  |
 ||Justus West|||(John Legend)|
-| 1 | Dreamy Chord Tones |  |  |  |
-| 2 | Rolled Back Volume |  |  |  |
+| 1 | Dreamy Chord Tones | ②STOCK |  |  |
+| 2 | Rolled Back Volume | ③D-TEX |  |  |
 ||Lincoln Brewster||||
-| 1 | Clean Your Room |  |  |  |
-| 2 | Don't Blow It |  |  |  |
+| 1 | Clean Your Room | ③D-TEX |  |  |
+| 2 | Don't Blow It | ③D-TEX |  |  |
 | 3 | Swamp Thing |  |  |  |
 | 4 | We're Breakin' Up |  |  |  |
   
