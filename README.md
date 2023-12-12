@@ -1,4 +1,5 @@
 # UAFX_Dream'65
+1965年製デラックス・リヴァーブをモデリング。
 ## 1.設定のしかた
 1. 「ALT/AMP/STORE」トグルスイッチはAMPに、ノブはすべて12時にしておく。
 2. 「MOD」トグルスイッチで、アンプを３つのなかから選ぶ。
@@ -38,5 +39,83 @@
 | 3 | D-TEX| EV12 | SRV スタイルのテキサス・ブルース・アンプとスピーカー・キャビネットのペアリング。 |
   
 ## 5.Factory プリセット
+| No |Preset | MOD | SPEAKER | memo |
+| ---- | ---- | ---- | ---- | ---- |
+| 1 | 1x12 with 4x10 Stack |  |  |
+| 2 | Boutique D Blues |  |  |
+| 3 | Bright Switch Off JBF120 |  |  |
+| 4 | Bright Switch Off SVerb |  |  |
+| 5 | Chaos Helicopter |  |  |
+| 6 | Con 1x12 and 4x10 Combos |  |  |
+| 7 | D65 Break Up Ribbons |  |  |
+| 8 | Dyn 1x12 and 4x10 Combos |  |  |
+| 9 | EV12 Break Up Dynamics |  |  |
+| 10 | Hard Fast Trem |  |  |
+| 11 | Jerrys Twins |  |  |
+| 12 | Lead Greenback Mix |  |  |
+| 13 | Rib 1x12 and 4x10 Combos |  |  |
+| 14 | Smooth Ribbon Drive |  |  |
+| 15 | Split Cab GB n JBF Sizzle |  |  |
+| 16 | Studio Rhythm Chunk |  |  |
+| 17 | Super Neck Split Cab |  |  |
+| 18 | The Everything Works Tone |  |  |
+| 19 | Vintage Trem n Verb |  |  |
+| 20 | Warm JBF120s |  |  |
 
 ## 6.Artist プリセット
+| No |Preset | MOD | SPEAKER | memo |
+| ---- | ---- | ---- | ---- | ---- |
+||Oz Noy||||
+| 1 | Oz Amp Drive |  |  |
+| 2 | Oz Super Trem n Verb |  |  |
+| 3 | Oz Super Verb |  |  |
+||Jessica Dobson|||(Deep Sea Diver)|
+| 1 | Chimey Grit |  |  |
+| 2 | Fuzzy Friend |  |  |
+| 3 | Sparkle Fest |  |  |
+| 4 | Trem Heaven |  |  |
+||Cory Wong|||(Vulfpeck)|
+| 1 | Cory Bright |  |  |
+| 2 | Cory Clean |  |  |
+||Derek Wells|||(Carrie Underwood)|
+| 1 | Empty Venue Soundcheck |  |  |
+| 2 | Hum On Loosely |  |  |
+| 3 | Strattlin' Bones |  |  |
+| 4 | Take The Solo |  |  |
+||Tim Pierce|||(Studio Ace)|
+| 1 | Single Coil Neck Grit Sweet Spot |  |  |
+| 2 | Tell E So Real It's Scary |  |  |
+| 3 | Ultimate Gib Meets Fen Tone |  |  |
+||David Ryan Harris|||(John Mayer)|
+| 1 | Birmingham Tell E |  |  |
+| 2 | Eviction |  |  |
+| 3 | Shag Carpet |  |  |
+| 4 | Williamsburg's Finest |  |  |  |
+||Jim James|||(My Morning Jacket)|
+| 1 | JJs Clean Dream Three |  |  |
+| 2 | JJs Clean Dream Two |  |  |
+| 3 | JJs Clean Dream |  |  |
+||Peter "Danish Pete" Honoré||||
+| 1 | Clean Trem Verb |  |  |
+| 2 | Clean Verb |  |  |
+| 3 | Crunch Noodles |  |  |
+| 4 | Crunchy Funk |  |  |
+| 5 | Tell E Bridge Rockin' |  |  |
+||Nels Cline|||(Wilco)|
+| 1 | Clean n Warm |  |  |
+||Justus West|||(John Legend)|
+| 1 | Dreamy Chord Tones |  |  |
+| 2 | Rolled Back Volume |  |  |
+||Lincoln Brewster||||
+| 1 | Clean Your Room |  |  |
+| 2 | Don't Blow It |  |  |
+| 3 | Swamp Thing |  |  |
+| 4 | We're Breakin' Up |  |  |
+  
+## ●情報源
+・HOOK UP,INC.：UAFX Dream '65 Reverb Amplifier マニュアル
+https://hookup.co.jp/support/posts/931215
+  
+・UNIVERSAL AUDIO：UAFX Preset and Voicing Lists
+https://help.uaudio.com/hc/en-us/articles/8272165765012-UAFX-Preset-and-Voicing-Lists
+
