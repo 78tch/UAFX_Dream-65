@@ -63,54 +63,54 @@
 | 20 | Warm JBF120s |  | ②STOCK | ⑥JBF120 |  |
 
 ## 6.Artist プリセット
-| No |Preset | MOD | SPEAKER | memo |
-| ---- | ---- | ---- | ---- | ---- |
-|●|Oz Noy||||
-| 1 | Oz Amp Drive | ③D-TEX | ⑤S-Verb |  |
-| 2 | Oz Super Trem n Verb | ②STOCK | ⑤S-Verb |  |
-| 3 | Oz Super Verb | ②STOCK | ⑤S-Verb |  |
-|●|Jessica Dobson|||(Deep Sea Diver)|
-| 4 | Chimey Grit | ②STOCK | ⑤S-Verb |  |
-| 5 | Fuzzy Friend | ③D-TEX | ①GB25 |  |
-| 6 | Sparkle Fest | ②STOCK | ①GB25 |  |
-| 7 | Trem Heaven |  |  |  |
-|●|Cory Wong(Vulfpeck)||||
-| 8 | Cory Bright | ②STOCK | ①GB25 |  |
-| 9 | Cory Clean | ①LEAD | ①GB25 |  |
-|●|Derek Wells(Carrie Underwood)||||
-| 10 | Empty Venue Soundcheck | ②STOCK | ①GB25 |  |
-| 11 | Hum On Loosely | ②STOCK | ①GB25 |  |
-| 12 | Strattlin' Bones | ②STOCK | ③EV12 |  |
-| 13 | Take The Solo | ②STOCK | ⑤S-Verb |  |
-|●|Tim Pierce(Studio Ace)||||
-| 14 | Single Coil Neck Grit Sweet Spot | ①LEAD | ③EV12 |  |
-| 15 | Tell E So Real It's Scary | ①LEAD | ①GB25 |  |
-| 16 | Ultimate Gib Meets Fen Tone | ②STOCK | ①GB25 |  |
-|●|David Ryan Harris(John Mayer)||||
-| 17 | Birmingham Tell E | ③D-TEX | ③EV12 |  |
-| 18 | Eviction | ③D-TEX | ①GB25 |  |
-| 19 | Shag Carpet | ②STOCK | ③EV12 |  |
-| 20 | Williamsburg's Finest |  |  |  |  |
-|●|Jim James(My Morning Jacket)||||
-| 21 | JJs Clean Dream Three | ②STOCK | ③EV12 |  |
-| 22 | JJs Clean Dream Two | ②STOCK | ④D65 |  |
-| 23 | JJs Clean Dream | ②STOCK | ⑤S-Verb |  |
-|●|Peter "Danish Pete" Honoré||||
-| 24 | Clean Trem Verb | ①LEAD | ⑤S-Verb |  |
-| 25 | Clean Verb | ①LEAD | ⑤S-Verb |  |
-| 26 | Crunch Noodles | ①LEAD | ④D65 |  |
-| 27 | Crunchy Funk |  |  |  |
-| 28 | Tell E Bridge Rockin' |  |  |  |
-|●|Nels Cline(Wilco)||||
-| 29 | Clean n Warm | ②STOCK | ⑥JBF120 |  |
-|●|Justus West(John Legend)||||
-| 30 | Dreamy Chord Tones | ②STOCK | ①GB25 |  |
-| 31 | Rolled Back Volume | ③D-TEX | ②OXFORD |  |
-|●|Lincoln Brewster||||
-| 32 | Clean Your Room | ③D-TEX | ④D65 |  |
-| 33 | Don't Blow It | ③D-TEX | ⑤S-Verb |  |
-| 34 | Swamp Thing |  |  |  |
-| 35 | We're Breakin' Up |  |  |  |
+| No |Preset | 定番 | MOD | SPEAKER | memo |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+|●|Oz Noy|●|●|●|●|
+| 1 | Oz Amp Drive |  | ③D-TEX | ⑤S-Verb |  |
+| 2 | Oz Super Trem n Verb |  | ②STOCK | ⑤S-Verb |  |
+| 3 | Oz Super Verb |  | ②STOCK | ⑤S-Verb |  |
+|●|Jessica Dobson(Deep Sea Diver)|●|●|●|●|
+| 4 | Chimey Grit |  | ②STOCK | ⑤S-Verb |  |
+| 5 | Fuzzy Friend |  | ③D-TEX | ①GB25 |  |
+| 6 | Sparkle Fest |  | ②STOCK | ①GB25 |  |
+| 7 | Trem Heaven |  |  |  |  |
+|●|Cory Wong(Vulfpeck)|●|●|●|●|
+| 8 | Cory Bright |  | ②STOCK | ①GB25 |  |
+| 9 | Cory Clean | 1 | ①LEAD | ①GB25 |  |
+|●|Derek Wells(Carrie Underwood)|●|●|●|●|
+| 10 | Empty Venue Soundcheck |  | ②STOCK | ①GB25 |  |
+| 11 | Hum On Loosely |  | ②STOCK | ①GB25 |  |
+| 12 | Strattlin' Bones |  | ②STOCK | ③EV12 |  |
+| 13 | Take The Solo |  | ②STOCK | ⑤S-Verb |  |
+|●|Tim Pierce(Studio Ace)|●|●|●|●|
+| 14 | Single Coil Neck Grit Sweet Spot |  | ①LEAD | ③EV12 |  |
+| 15 | Tell E So Real It's Scary | 1 | ①LEAD | ①GB25 |  |
+| 16 | Ultimate Gib Meets Fen Tone |  | ②STOCK | ①GB25 |  |
+|●|David Ryan Harris(John Mayer)|●|●|●|●|
+| 17 | Birmingham Tell E | 3 | ③D-TEX | ③EV12 |  |
+| 18 | Eviction |  | ③D-TEX | ①GB25 |  |
+| 19 | Shag Carpet |  | ②STOCK | ③EV12 |  |
+| 20 | Williamsburg's Finest |  |  |  |  |  |
+|●|Jim James(My Morning Jacket)|●|●|●|●|
+| 21 | JJs Clean Dream Three |  | ②STOCK | ③EV12 |  |
+| 22 | JJs Clean Dream Two |  | ②STOCK | ④D65 |  |
+| 23 | JJs Clean Dream |  | ②STOCK | ⑤S-Verb |  |
+|●|Peter "Danish Pete" Honoré|●|●|●|●|
+| 24 | Clean Trem Verb |  | ①LEAD | ⑤S-Verb |  |
+| 25 | Clean Verb |  | ①LEAD | ⑤S-Verb |  |
+| 26 | Crunch Noodles |  | ①LEAD | ④D65 |  |
+| 27 | Crunchy Funk |  |  |  |  |
+| 28 | Tell E Bridge Rockin' |  |  |  |  |
+|●|Nels Cline(Wilco)|●|●|●|●|
+| 29 | Clean n Warm |  | ②STOCK | ⑥JBF120 |  |
+|●|Justus West(John Legend)|●|●|●|●|
+| 30 | Dreamy Chord Tones |  | ②STOCK | ①GB25 |  |
+| 31 | Rolled Back Volume |  | ③D-TEX | ②OXFORD |  |
+|●|Lincoln Brewster|●|●|●|●|
+| 32 | Clean Your Room |  | ③D-TEX | ④D65 |  |
+| 33 | Don't Blow It |  | ③D-TEX | ⑤S-Verb |  |
+| 34 | Swamp Thing |  |  |  |  |
+| 35 | We're Breakin' Up |  |  |  |  |
   
 ## 7.設定メモ
 まずは定番の組み合わせにおいて音を作ってみて、そのときのパラメータ値をメモする。  
