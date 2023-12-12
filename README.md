@@ -39,28 +39,28 @@
 | 3 | D-TEX| EV12 | SRV スタイルのテキサス・ブルース・アンプとスピーカー・キャビネットのペアリング。 |
   
 ## 5.Factory プリセット
-| No |Preset | MOD | SPEAKER | memo |
-| ---- | ---- | ---- | ---- | ---- |
-| 1 | 1x12 with 4x10 Stack | ③D-TEX | ③EV12 |  |
-| 2 | Boutique D Blues | ③D-TEX | ④D65 |  |
-| 3 | Bright Switch Off JBF120 | ①LEAD | ⑥JBF120 |  |
-| 4 | Bright Switch Off SVerb | ①LEAD | ⑤S-Verb |  |
-| 5 | Chaos Helicopter | ①LEAD | ①GB25 |  |
-| 6 | Con 1x12 and 4x10 Combos | ②STOCK | ②OXFORD |  |
-| 7 | D65 Break Up Ribbons | ②STOCK | ④D65 |  |
-| 8 | Dyn 1x12 and 4x10 Combos | ②STOCK | ②OXFORD |  |
-| 9 | EV12 Break Up Dynamics | ③D-TEX | ③EV12 |  |
-| 10 | Hard Fast Trem | ②STOCK | ①GB25 |  |
-| 11 | Jerrys Twins | ②STOCK | ⑥JBF120 |  |
-| 12 | Lead Greenback Mix | ①LEAD | ①GB25 |  |
-| 13 | Rib 1x12 and 4x10 Combos | ②STOCK | ②OXFORD |  |
-| 14 | Smooth Ribbon Drive | ③D-TEX | ②OXFORD |  |
-| 15 | Split Cab GB n JBF Sizzle | ③D-TEX | ①GB25 |  |
-| 16 | Studio Rhythm Chunk | ①LEAD | ③EV12 |  |
-| 17 | Super Neck Split Cab | ③D-TEX | ⑤S-Verb |  |
-| 18 | The Everything Works Tone | ②STOCK | ②OXFORD |  |
-| 19 | Vintage Trem n Verb | ②STOCK | ②OXFORD |  |
-| 20 | Warm JBF120s | ②STOCK | ⑥JBF120 |  |
+| No |Preset | 定番 | MOD | SPEAKER | memo |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| 1 | 1x12 with 4x10 Stack | 3 | ③D-TEX | ③EV12 |  |
+| 2 | Boutique D Blues |  | ③D-TEX | ④D65 |  |
+| 3 | Bright Switch Off JBF120 |  | ①LEAD | ⑥JBF120 |  |
+| 4 | Bright Switch Off SVerb |  | ①LEAD | ⑤S-Verb |  |
+| 5 | Chaos Helicopter | 1 | ①LEAD | ①GB25 |  |
+| 6 | Con 1x12 and 4x10 Combos | 2 | ②STOCK | ②OXFORD |  |
+| 7 | D65 Break Up Ribbons |  | ②STOCK | ④D65 |  |
+| 8 | Dyn 1x12 and 4x10 Combos | 2 | ②STOCK | ②OXFORD |  |
+| 9 | EV12 Break Up Dynamics | 3 | ③D-TEX | ③EV12 |  |
+| 10 | Hard Fast Trem |  | ②STOCK | ①GB25 |  |
+| 11 | Jerrys Twins |  | ②STOCK | ⑥JBF120 |  |
+| 12 | Lead Greenback Mix | 1 | ①LEAD | ①GB25 |  |
+| 13 | Rib 1x12 and 4x10 Combos | 2 | ②STOCK | ②OXFORD |  |
+| 14 | Smooth Ribbon Drive |  | ③D-TEX | ②OXFORD |  |
+| 15 | Split Cab GB n JBF Sizzle |  | ③D-TEX | ①GB25 |  |
+| 16 | Studio Rhythm Chunk |  | ①LEAD | ③EV12 |  |
+| 17 | Super Neck Split Cab |  | ③D-TEX | ⑤S-Verb |  |
+| 18 | The Everything Works Tone | 2 | ②STOCK | ②OXFORD |  |
+| 19 | Vintage Trem n Verb | 2 | ②STOCK | ②OXFORD |  |
+| 20 | Warm JBF120s |  | ②STOCK | ⑥JBF120 |  |
 
 ## 6.Artist プリセット
 | No |Preset | MOD | SPEAKER | memo |
@@ -124,7 +124,7 @@
 |2|SPEAKER|①GB25<br>②OXFORD<br>③EV12<br>④D65<br>⑤S-Verb<br>⑥JBF120|①GB25|②OXFORD|③EV12||||
 |3|OUTPUT||||||||
 |4|VOLUME|7～5時|||||||
-|5|BOOST|7～5時|||||||
+|5|BOOST|7～5時|||OFF||||
 |6|BASE||||||||
 |7|TREBLE||||||||
 |8|REVERB|7～5時|||||||
