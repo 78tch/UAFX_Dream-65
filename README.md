@@ -75,40 +75,40 @@
 | 3 | Sparkle Fest | ②STOCK | ①GB25 |  |
 | 4 | Trem Heaven |  |  |  |
 ||Cory Wong|||(Vulfpeck)|
-| 1 | Cory Bright | ②STOCK |  |  |
-| 2 | Cory Clean | ①LEAD |  |  |
+| 1 | Cory Bright | ②STOCK | ①GB25 |  |
+| 2 | Cory Clean | ①LEAD | ①GB25 |  |
 ||Derek Wells|||(Carrie Underwood)|
-| 1 | Empty Venue Soundcheck | ②STOCK |  |  |
-| 2 | Hum On Loosely | ②STOCK |  |  |
-| 3 | Strattlin' Bones | ②STOCK |  |  |
-| 4 | Take The Solo | ②STOCK |  |  |
+| 1 | Empty Venue Soundcheck | ②STOCK | ①GB25 |  |
+| 2 | Hum On Loosely | ②STOCK | ①GB25 |  |
+| 3 | Strattlin' Bones | ②STOCK | ③EV12 |  |
+| 4 | Take The Solo | ②STOCK | ⑤S-Verb |  |
 ||Tim Pierce|||(Studio Ace)|
-| 1 | Single Coil Neck Grit Sweet Spot | ①LEAD |  |  |
-| 2 | Tell E So Real It's Scary | ①LEAD |  |  |
-| 3 | Ultimate Gib Meets Fen Tone | ②STOCK |  |  |
+| 1 | Single Coil Neck Grit Sweet Spot | ①LEAD | ③EV12 |  |
+| 2 | Tell E So Real It's Scary | ①LEAD | ①GB25 |  |
+| 3 | Ultimate Gib Meets Fen Tone | ②STOCK | ①GB25 |  |
 ||David Ryan Harris|||(John Mayer)|
-| 1 | Birmingham Tell E | ③D-TEX |  |  |
-| 2 | Eviction | ③D-TEX |  |  |
-| 3 | Shag Carpet | ②STOCK |  |  |
+| 1 | Birmingham Tell E | ③D-TEX | ③EV12 |  |
+| 2 | Eviction | ③D-TEX | ①GB25 |  |
+| 3 | Shag Carpet | ②STOCK | ③EV12 |  |
 | 4 | Williamsburg's Finest |  |  |  |  |
 ||Jim James|||(My Morning Jacket)|
-| 1 | JJs Clean Dream Three | ②STOCK |  |  |
-| 2 | JJs Clean Dream Two | ②STOCK |  |  |
-| 3 | JJs Clean Dream | ②STOCK |  |  |
+| 1 | JJs Clean Dream Three | ②STOCK | ③EV12 |  |
+| 2 | JJs Clean Dream Two | ②STOCK | ④D65 |  |
+| 3 | JJs Clean Dream | ②STOCK | ⑤S-Verb |  |
 ||Peter "Danish Pete" Honoré||||
-| 1 | Clean Trem Verb | ①LEAD |  |  |
-| 2 | Clean Verb | ①LEAD |  |  |
-| 3 | Crunch Noodles | ①LEAD |  |  |
+| 1 | Clean Trem Verb | ①LEAD | ⑤S-Verb |  |
+| 2 | Clean Verb | ①LEAD | ⑤S-Verb |  |
+| 3 | Crunch Noodles | ①LEAD | ④D65 |  |
 | 4 | Crunchy Funk |  |  |  |
 | 5 | Tell E Bridge Rockin' |  |  |  |
 ||Nels Cline|||(Wilco)|
-| 1 | Clean n Warm | ②STOCK |  |  |
+| 1 | Clean n Warm | ②STOCK | ⑥JBF120 |  |
 ||Justus West|||(John Legend)|
-| 1 | Dreamy Chord Tones | ②STOCK |  |  |
-| 2 | Rolled Back Volume | ③D-TEX |  |  |
+| 1 | Dreamy Chord Tones | ②STOCK | ①GB25 |  |
+| 2 | Rolled Back Volume | ③D-TEX | ②OXFORD |  |
 ||Lincoln Brewster||||
-| 1 | Clean Your Room | ③D-TEX |  |  |
-| 2 | Don't Blow It | ③D-TEX |  |  |
+| 1 | Clean Your Room | ③D-TEX | ④D65 |  |
+| 2 | Don't Blow It | ③D-TEX | ⑤S-Verb |  |
 | 3 | Swamp Thing |  |  |  |
 | 4 | We're Breakin' Up |  |  |  |
   
