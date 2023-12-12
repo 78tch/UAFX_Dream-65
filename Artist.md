@@ -52,7 +52,7 @@
 | 34 | Swamp Thing |  |  |  |||||||||
 | 35 | We're Breakin' Up |  |||||||||||
   
-## 1.Artist プリセットの解説
+## 2.Artist プリセットの解説
 | No |Preset | memo |和訳|
 | ---- | ---- | ---- | ---- |
 |●|Oz Noy|●|●|
