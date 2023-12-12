@@ -40,7 +40,7 @@
   
 ## 5.Factory プリセット
 | No |Preset | 定番 | MOD | SPEAKER | memo |
-| ---- | ---- | ---- | ---- | ---- | ---- |
+| ---- | ---- |:----:| ---- | ---- | ---- |
 | 1 | 1x12 with 4x10 Stack | 3 | ③D-TEX | ③EV12 |  |
 | 2 | Boutique D Blues | - | ③D-TEX | ④D65 |  |
 | 3 | Bright Switch Off JBF120 | - | ①LEAD | ⑥JBF120 |  |
@@ -64,7 +64,7 @@
 
 ## 6.Artist プリセット
 | No |Preset | 定番 | MOD | SPEAKER | memo |
-| ---- | ---- | ---- | ---- | ---- | ---- |
+| ---- | ---- |:----:| ---- | ---- | ---- |
 |●|Oz Noy|●|●|●|●|
 | 1 | Oz Amp Drive | - | ③D-TEX | ⑤S-Verb |  |
 | 2 | Oz Super Trem n Verb | - | ②STOCK | ⑤S-Verb |  |
