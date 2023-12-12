@@ -112,6 +112,21 @@
 | 3 | Swamp Thing |  |  |  |
 | 4 | We're Breakin' Up |  |  |  |
   
+## 7.設定メモ
+| No |項目 | 選択肢 | 定番１ | 定番２ | 定番３ | 設定１ | 設定２ | 設定３ |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+|1|MOD|①LEAD<br>②STOCK<br>③D-TEX|①LEAD|②STOCK|③D-TEX||||
+|2|SPEAKER|①GB25<br>②OXFORD<br>③EV12<br>④D65<br>⑤S-Verb<br>⑥JBF120|①GB25|②OXFORD|③EV12||||
+|3|OUTPUT||||||||
+|4|VOLUME||||||||
+|5|BOOST||||||||
+|6|BASE||||||||
+|7|TREBLE||||||||
+|8|REVERB||||||||
+|9|SPEED||||||||
+|10|INTENSITY||||||||
+
+
 ## ●情報源
 ・HOOK UP,INC.：  
 UAFX Dream '65 Reverb Amplifier マニュアル  
