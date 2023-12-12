@@ -75,7 +75,7 @@
 | 4 | Chimey Grit | - | ②STOCK | ⑤S-Verb |  ||
 | 5 | Fuzzy Friend | - | ③D-TEX | ①GB25 |  ||
 | 6 | Sparkle Fest | - | ②STOCK | ①GB25 |  ||
-| 7 | Trem Heaven | - |  |  |  ||
+| 7 | Trem Heaven | - | ③D-TEX | ①GB25 |  ||
 |●|Cory Wong(Vulfpeck)|●|●|●|●||
 | 8 | Cory Bright | - | ②STOCK | ①GB25 |  ||
 | 9 | Cory Clean | 1 | ①LEAD | ①GB25 |  ||
@@ -92,7 +92,7 @@
 | 17 | Birmingham Tell E | 3 | ③D-TEX | ③EV12 |  ||
 | 18 | Eviction | - | ③D-TEX | ①GB25 |  ||
 | 19 | Shag Carpet | - | ②STOCK | ③EV12 |  ||
-| 20 | Williamsburg's Finest |  |  |  |  |  ||
+| 20 | Williamsburg's Finest | - | ①LEAD | ③EV12 |  |  ||
 |●|Jim James(My Morning Jacket)|●|●|●|●||
 | 21 | JJs Clean Dream Three | - | ②STOCK | ③EV12 |  ||
 | 22 | JJs Clean Dream Two | - | ②STOCK | ④D65 |  ||
@@ -101,8 +101,8 @@
 | 24 | Clean Trem Verb | - | ①LEAD | ⑤S-Verb |  ||
 | 25 | Clean Verb | - | ①LEAD | ⑤S-Verb |  ||
 | 26 | Crunch Noodles | - | ①LEAD | ④D65 |  ||
-| 27 | Crunchy Funk |  |  |  |  ||
-| 28 | Tell E Bridge Rockin' |  |  |  |  ||
+| 27 | Crunchy Funk | - | ①LEAD | ④D65 |  ||
+| 28 | Tell E Bridge Rockin' |3| ③D-TEX | ③EV12 |  |  |
 |●|Nels Cline(Wilco)|●|●|●|●||
 | 29 | Clean n Warm | - | ②STOCK | ⑥JBF120 |  ||
 |●|Justus West(John Legend)|●|●|●|●||
@@ -111,8 +111,8 @@
 |●|Lincoln Brewster|●|●|●|●||
 | 32 | Clean Your Room | - | ③D-TEX | ④D65 |  ||
 | 33 | Don't Blow It | - | ③D-TEX | ⑤S-Verb |  ||
-| 34 | Swamp Thing |  |  |  |  ||
-| 35 | We're Breakin' Up |  |  |  |  ||
+| 34 | Swamp Thing | - | ③D-TEX | ④D65 |  ||
+| 35 | We're Breakin' Up | - | ①LEAD | ④D65 |  ||
   
 ## 7.設定メモ
 まずは定番の組み合わせにおいて音を作ってみて、そのときのパラメータ値をメモする。  
