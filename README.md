@@ -113,9 +113,11 @@
 | 4 | We're Breakin' Up |  |  |  |
   
 ## ●情報源
-・HOOK UP,INC.：UAFX Dream '65 Reverb Amplifier マニュアル
+・HOOK UP,INC.：  
+UAFX Dream '65 Reverb Amplifier マニュアル  
 https://hookup.co.jp/support/posts/931215
   
-・UNIVERSAL AUDIO：UAFX Preset and Voicing Lists
+・UNIVERSAL AUDIO：  
+UAFX Preset and Voicing Lists  
 https://help.uaudio.com/hc/en-us/articles/8272165765012-UAFX-Preset-and-Voicing-Lists
 
