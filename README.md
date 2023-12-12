@@ -39,6 +39,7 @@
 | 3 | D-TEX| EV12 | SRV スタイルのテキサス・ブルース・アンプとスピーカー・キャビネットのペアリング。 |
   
 ## 5.Factory プリセット
+[より詳しくは・・・](./Factory.md)
 | No |Preset | 定番 | MOD | SPEAKER | memo |和訳|
 | ---- | ---- |:----:| ---- | ---- | ---- | ---- |
 | 1 | 1x12 with 4x10 Stack | 3 | ③D-TEX | ③EV12 |  ||
@@ -63,6 +64,7 @@
 | 20 | Warm JBF120s | - | ②STOCK | ⑥JBF120 |  ||
 
 ## 6.Artist プリセット
+[より詳しくは](./Artist.md)
 | No |Preset | 定番 | MOD | SPEAKER | memo |和訳|
 | ---- | ---- |:----:| ---- | ---- | ---- | ---- |
 |●|Oz Noy|●|●|●|●||
