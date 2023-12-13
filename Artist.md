@@ -90,7 +90,7 @@
 | 25 | Clean Verb |	4x10 Sverb cab with an extra helping of spring reverb.|「4x10 S-Verb」キャビに、ちょっとスプリングリバーブを追加しました。|
 | 26 | Crunch Noodles |D65 2x12 cab with just a bit of Lead mod added for drive.|「D65 2x12」キャビに、「LEAD」MODでドライブを少しだけ追加しました。|
 | 27 | Crunchy Funk |D65 2x12 cab with just a bit of amp overdrive and extra treble for cut.|「D65 2x12」キャビにアンプのオーバードライブを少し加え、余分な高音域をカットしてあります。|
-| 28 | Tell E Bridge Rockin' |EV12 cab with some D-Tex mod for added overdrive.|オーバードライブを追加するための D-Tex Mod を備えた EV12 キャブ。|
+| 28 | Tell E Bridge Rockin' |EV12 cab with some D-Tex mod for added overdrive.|「EV12」キャビと、「D-Tex」MODのオーバードライブを追加してあります。|
 |●|Nels Cline(Wilco)|●|●|
 | 29 | Clean n Warm |Use with single coils for a clean and warm tone.|シングルコイルと組み合わせて使用​​すると、クリーンで温かみのあるトーンが得られます。|
 |●|Justus West(John Legend)|●|●|
