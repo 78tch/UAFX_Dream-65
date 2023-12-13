@@ -75,7 +75,7 @@
 |●|Tim Pierce(Studio Ace)|●|●|
 | 14 | Single Coil Neck Grit Sweet Spot |Thick neck single coil tones using the EV12 cab.|「EV12」キャビをを使用した、太いネックのシングルコイル・ギター向けの音色です。|
 | 15 | Tell E So Real It's Scary |Lead mod added for a punchy and smooth distorted sound.|「LEAD」MODにパンチの効いたスムーズなディストーションサウンドを追加しました。|
-| 16 | Ultimate Gib Meets Fen Tone |Warm clean sound with a little breakup for any humbucker or single coil guitar.|あらゆるハムバッカーやシングルコイルギターに適した、少しのブレイクアップを伴う温かみのあるクリーンサウンド。|
+| 16 | Ultimate Gib Meets Fen Tone |Warm clean sound with a little breakup for any humbucker or single coil guitar.|温かみのあるクリーンサウンドに少しだけブレイクアップを加えてあり、あらゆるハムバッカーやシングルコイルのギターに合います。|
 |●|David Ryan Harris(John Mayer)|●|●|
 | 17 | Birmingham Tell E |Punchy EV12 cab dialed in for single coils.|	シングルコイル用のパンチの効いたEV12キャブ。|
 | 18 | Eviction |GB25 with cranked up amp tones using D-Tex mod for that classic on 10 sound.|GB25 は、D-Tex Mod を使用して、クラシックな 10 サウンドのアンプトーンを強化しました。|
