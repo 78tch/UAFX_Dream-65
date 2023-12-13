@@ -66,7 +66,7 @@
 | 7 | Trem Heaven |Deep depth tremolo and spring reverb for big sustained chord ambience.|深みのあるトレモロとスプリングリバーブにより、長いサスティンでコード感が広がります。|
 |●|Cory Wong(Vulfpeck)|●|●|
 | 8 | Cory Bright |Super clean GB25 tone for spanky rhythms with single coil guitars.|シングルコイルギターでスパンキーなリズムを実現するスーパークリーン GB25 トーン。|
-| 9 | Cory Clean |Clean and warm tone with GB25 for spanky rhythms with single coil guitars. Uses Lead mod to turn off the amp's bright switch.|GB25 のクリーンで温かみのあるトーンは、シングルコイルギターのスパンキーなリズムに最適です。 Lead modを使用してアンプの明るいスイッチをオフにします。|
+| 9 | Cory Clean |Clean and warm tone with GB25 for spanky rhythms with single coil guitars. Uses Lead mod to turn off the amp's bright switch.|超クリーンな「GB25」キャビの音は、シングルコイルギターの斬新（スパンキー）なリズムに最適です。「LEAD」MODを使用してアンプのブライト・スイッチをオフにしています。|
 |●|Derek Wells(Carrie Underwood)|●|●|
 | 10 | Empty Venue Soundcheck |Big spring reverb space and overdriven amp that goes great with any guitar.|大きなスプリングリバーブスペースとオーバードライブアンプはどんなギターにもマッチします。|
 | 11 | Hum On Loosely |Classic 70s rock rhythm guitar sounds. Goes great with humbuckers.|クラシックな70年代ロックのリズムギターサウンド。ハムバッカーとの相性は抜群です。|
