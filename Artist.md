@@ -68,7 +68,7 @@
 | 8 | Cory Bright |Super clean GB25 tone for spanky rhythms with single coil guitars.|シングルコイルギターでスパンキーなリズムを実現するスーパークリーン GB25 トーン。|
 | 9 | Cory Clean |Clean and warm tone with GB25 for spanky rhythms with single coil guitars. Uses Lead mod to turn off the amp's bright switch.|超クリーンな「GB25」キャビの音は、シングルコイルギターの斬新（スパンキー）なリズムに最適です。「LEAD」MODを使用してアンプのブライト・スイッチをオフにしています。|
 |●|Derek Wells(Carrie Underwood)|●|●|
-| 10 | Empty Venue Soundcheck |Big spring reverb space and overdriven amp that goes great with any guitar.|大きなスプリングリバーブスペースとオーバードライブアンプはどんなギターにもマッチします。|
+| 10 | Empty Venue Soundcheck |Big spring reverb space and overdriven amp that goes great with any guitar.|スプリングリバーブの広大な空間感とオーバードライブが掛かったアンプは、どんなギターにもマッチします。|
 | 11 | Hum On Loosely |Classic 70s rock rhythm guitar sounds. Goes great with humbuckers.|クラシックな70年代ロックのリズムギターサウンド。ハムバッカーとの相性は抜群です。|
 | 12 | Strattlin' Bones |Big tremolo and spring reverb tones with EV12 cab.|EV12キャブによるビッグトレモロとスプリングリバーブトーン。|
 | 13 | Take The Solo |Sverb 4x10 cab with open midrange for cutting lead guitar tones.|リードギタートーンをカットするためのオープンミッドレンジを備えたSverb 4x10キャビネット。|
