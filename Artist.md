@@ -61,7 +61,7 @@
 | 3 | Oz Super Verb |Sverb 4x10 cab with custom 414 and 57 mic blend and amp reverb.|「S-Verb 4x10」キャビの「414」マイクと「57」マイクを混ぜた音に、アンプのリバーブを足しています。|
 |●|Jessica Dobson(Deep Sea Diver)|●|●|
 | 4 | Chimey Grit |Sverb 4x10 cab with amp overdrive.|「S-Verb 4x10」キャビで、アンプのオーバードライブの音。|
-| 5 | Fuzzy Friend |D-Tex mod added for open midrange, and GB25 speaker for clear sizzling highs.|D-Tex Mod がオープンな中音域を実現し、GB25 スピーカーがクリアな焼けるような高音を実現します。|
+| 5 | Fuzzy Friend |D-Tex mod added for open midrange, and GB25 speaker for clear sizzling highs.|「D-Tex」Modでオープンなミッドレンジを加えています。「GB25」スピーカーがクリアでジューシーな高音を実現しています。|
 | 6 | Sparkle Fest |Edgy overdrive with GB25 speaker for punchy highs.|GB25 スピーカーを備えたエッジの効いたオーバードライブで、パンチの効いた高音を実現します。|
 | 7 | Trem Heaven |Deep depth tremolo and spring reverb for big sustained chord ambience.|深みのあるトレモロとスプリングリバーブにより、持続性のあるコードのアンビエンスが広がります。|
 |●|Cory Wong(Vulfpeck)|●|●|
