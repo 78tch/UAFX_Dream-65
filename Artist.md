@@ -70,7 +70,7 @@
 |●|Derek Wells(Carrie Underwood)|●|●|
 | 10 | Empty Venue Soundcheck |Big spring reverb space and overdriven amp that goes great with any guitar.|スプリングリバーブの広大な空間感とオーバードライブが掛かったアンプは、どんなギターにもマッチします。|
 | 11 | Hum On Loosely |Classic 70s rock rhythm guitar sounds. Goes great with humbuckers.|クラシックな70年代ロックのリズムギターサウンド。ハムバッカーとの相性は抜群です。|
-| 12 | Strattlin' Bones |Big tremolo and spring reverb tones with EV12 cab.|EV12キャブによるビッグトレモロとスプリングリバーブトーン。|
+| 12 | Strattlin' Bones |Big tremolo and spring reverb tones with EV12 cab.|ビッグ・トレモロとスプリングリバーブ・トーンを「EV12」キャビで。|
 | 13 | Take The Solo |Sverb 4x10 cab with open midrange for cutting lead guitar tones.|リードギタートーンをカットするためのオープンミッドレンジを備えたSverb 4x10キャビネット。|
 |●|Tim Pierce(Studio Ace)|●|●|
 | 14 | Single Coil Neck Grit Sweet Spot |Thick neck single coil tones using the EV12 cab.|EV12キャブを使用した太いネックのシングルコイルトーン。|
