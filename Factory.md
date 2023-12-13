@@ -47,7 +47,7 @@
 | 16 | Studio Rhythm Chunk |Chunky bridge pickup modded amp tone with midrange bump, preamp boost, EV12 with Con 414 punch, and a tight power amp tweak.|分厚い、ギターのブリッジ側ピックアップ用に調整されたアンプの音です。ミッドレンジを持ち上げ、プリアンプでブーストさせ、「EV12」キャビと「Con414」マイクで、タイトにパワーアンプを微調整してあります。|
 | 17 | Super Neck Split Cab |Blues-approved 4x10 super-style overdrive with midrange tone stack tweak, and custom Con 414 and Dyn 57 mics hard-panned.|ブルース向けの「4x10」キャビの「スーパー スタイル オーバードライブ」。ミッドレンジのトーン スタックを微調整してあり、「Con 414」マイクの音と「Dyn 57」マイクの音を左右に割り振ってあります。|
 | 18 | The Everything Works Tone |Completely stock vintage 65 black panel tone! This setting of Volume 3, Bass 7, and Treble 6 works for all single coil and humbucker cleanish tones.|	これはもう完全にヴィンテージの「65ブラックパネル」の音そのものです！このセッティングでは、Volume 3、Bass 7、Treble 6 とすれば、すべてのシングルコイルとハムバッカーのクリーンなトーンで、うまくいくでしょう。|
-| 19 | Vintage Trem n Verb |Based on the Everything Works setting, adds a little more volume and a slow medium depth tremolo.|Everything Works 設定に基づいて、もう少しボリュームとゆっくりとした中程度の深さのトレモロを追加します。|
+| 19 | Vintage Trem n Verb |Based on the Everything Works setting, adds a little more volume and a slow medium depth tremolo.|No.18「The Everything Works Tone」の設定をベースにして、ボリュームをほんの少しと、中程度の深さのゆったりしたトレモロを追加してあります。|
 | 20 | Warm JBF120s |Custom setup using Rib 121 mics to soften the bright aluminum dust cap on the JBF120s.|Rib 121 マイクを使用したカスタム セットアップで、JBF120 の明るいアルミニウム製ダスト キャップを和らげます。|
 
 [戻る](./README.md)
