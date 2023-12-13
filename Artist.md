@@ -95,7 +95,7 @@
 | 29 | Clean n Warm |Use with single coils for a clean and warm tone.|シングルコイルのギターと組み合わせれば、クリーンで温かみのあるトーンが得られます。|
 |●|Justus West(John Legend)|●|●|
 | 30 | Dreamy Chord Tones |GB25 cab with a little clean boost added.|「GB25」キャビに、少しクリーンブーストを加えた音色。|
-| 31 | Rolled Back Volume |Oxford cab with D-Tex mod enabled for extra midrange.|D-Tex MOD を有効にしたオックスフォード キャブによりミッドレンジが強化されています。|
+| 31 | Rolled Back Volume |Oxford cab with D-Tex mod enabled for extra midrange.|「OXFORD」キャビと「D-Tex」MODによりミッドレンジが強化されています。|
 |●|Lincoln Brewster|●|●|
 | 32 | Clean Your Room |D65 cab with spring reverb and no boost.|D65 キャビネット、スプリングリバーブあり、ブーストなし。|
 | 33 | Don't Blow It |4x10 cab with D-Tex boost and volume maxed on 10.|D-Tex ブーストを備えた 4x10 キャブ、ボリュームは最大 10 です。|
