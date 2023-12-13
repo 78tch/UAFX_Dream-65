@@ -98,7 +98,7 @@
 | 31 | Rolled Back Volume |Oxford cab with D-Tex mod enabled for extra midrange.|「OXFORD」キャビと「D-Tex」MODによりミッドレンジが強化されています。|
 |●|Lincoln Brewster|●|●|
 | 32 | Clean Your Room |D65 cab with spring reverb and no boost.|「D65」キャビと、スプリングリバーブあり、ブーストなしの音色。|
-| 33 | Don't Blow It |4x10 cab with D-Tex boost and volume maxed on 10.|D-Tex ブーストを備えた 4x10 キャブ、ボリュームは最大 10 です。|
+| 33 | Don't Blow It |4x10 cab with D-Tex boost and volume maxed on 10.|「4x10」キャビと「D-Tex」MODをブーストさせた音色、ボリュームはフルテンです。|
 | 34 | Swamp Thing |D65 cab with D-Tex boost and spring reverb.|D-Tex ブーストとスプリング リバーブを備えた D65 キャビネット。|
 | 35 | We're Breakin' Up |D65 cab with lead boost and a touch of spring reverb.|リードブーストとスプリングリバーブのタッチを備えた D65 キャビネット。|
   
