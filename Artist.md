@@ -63,7 +63,7 @@
 | 4 | Chimey Grit |Sverb 4x10 cab with amp overdrive.|「S-Verb 4x10」キャビで、アンプのオーバードライブの音。|
 | 5 | Fuzzy Friend |D-Tex mod added for open midrange, and GB25 speaker for clear sizzling highs.|「D-Tex」Modでオープンなミッドレンジを加えています。「GB25」スピーカーがクリアでジューシーな高音を実現しています。|
 | 6 | Sparkle Fest |Edgy overdrive with GB25 speaker for punchy highs.|エッジの効いたオーバードライブで、「GB25」スピーカーがパンチの効いた高音を実現しています。|
-| 7 | Trem Heaven |Deep depth tremolo and spring reverb for big sustained chord ambience.|深みのあるトレモロとスプリングリバーブにより、持続性のあるコードのアンビエンスが広がります。|
+| 7 | Trem Heaven |Deep depth tremolo and spring reverb for big sustained chord ambience.|深みのあるトレモロとスプリングリバーブにより、長いサスティンでコード感が広がります。|
 |●|Cory Wong(Vulfpeck)|●|●|
 | 8 | Cory Bright |Super clean GB25 tone for spanky rhythms with single coil guitars.|シングルコイルギターでスパンキーなリズムを実現するスーパークリーン GB25 トーン。|
 | 9 | Cory Clean |Clean and warm tone with GB25 for spanky rhythms with single coil guitars. Uses Lead mod to turn off the amp's bright switch.|GB25 のクリーンで温かみのあるトーンは、シングルコイルギターのスパンキーなリズムに最適です。 Lead modを使用してアンプの明るいスイッチをオフにします。|
