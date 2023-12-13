@@ -57,7 +57,7 @@
 | ---- | ---- | ---- | ---- |
 |●|Oz Noy|●|●|
 | 1 | Oz Amp Drive |Sverb 4x10 cab with custom 414 and 57 mic blend and reverb. Custom D-Tex mod for added punch and overdrive.|「S-Verb」キャビの「414」マイクと「57」マイクを混ぜて、リバーブを掛けています。カスタム「D-Tex」MODでパンチとオーバードライブを追加しています。|
-| 2 | Oz Super Trem n Verb |Sverb 4x10 cab with custom 414 and 57 mic blend, plus amp reverb and tremolo.|カスタム 414 と 57 マイク ブレンドを備えた Sverb 4x10 キャビネット、さらにアンプ リバーブとトレモロ。|
+| 2 | Oz Super Trem n Verb |Sverb 4x10 cab with custom 414 and 57 mic blend, plus amp reverb and tremolo.|「S-Verb 4x10」キャビの「414」マイクと「57」マイクを混ぜ、アンプのリバーブとトレモロを足しています。|
 | 3 | Oz Super Verb |Sverb 4x10 cab with custom 414 and 57 mic blend and amp reverb.|カスタム 414 および 57 マイクブレンドとアンプリバーブを備えた Sverb 4x10 キャビネット。|
 |●|Jessica Dobson(Deep Sea Diver)|●|●|
 | 4 | Chimey Grit |Sverb 4x10 cab with amp overdrive.|アンプオーバードライブを備えたSverb 4x10キャビネット。|
