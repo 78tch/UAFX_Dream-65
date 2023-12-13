@@ -84,7 +84,7 @@
 |●|Jim James(My Morning Jacket)|●|●|
 | 21 | JJs Clean Dream Three |Clean GB25 tone with high headroom for humbucker guitars.|「GB25」キャビのクリーントーンで、高いヘッドルームを備えたハムバッカー・ギター用の音色。|
 | 22 | JJs Clean Dream Two |Clean Boutique D65 cab with high headroom for humbucker guitars.|「D65」キャビのブティック系クリーントーンで、高いヘッドルームを備えたハムバッカーギター用の音色。|
-| 23 | JJs Clean Dream |Clean Sverb 4x10 cab with high headroom for humbucker guitars.|ハムバッカーギター向けの高いヘッドルームを備えたクリーンな Sverb 4x10 キャビネット。|
+| 23 | JJs Clean Dream |Clean Sverb 4x10 cab with high headroom for humbucker guitars.|「S-Verb 4x10」キャビの、高いヘッドルームを備えたハムバッカー・ギター用の音色。|
 |●|Peter "Danish Pete" Honoré|●|●|
 | 24 | Clean Trem Verb |4x10 Sverb cab with a bit of Lead mod added.|4x10 Sverb キャブに Lead Mod を少し追加しました。|
 | 25 | Clean Verb |	4x10 Sverb cab with an extra helping of spring reverb.|スプリングリバーブを追加した4x10 Sverbキャビネット。|
