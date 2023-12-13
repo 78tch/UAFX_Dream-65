@@ -74,7 +74,7 @@
 | 13 | Take The Solo |Sverb 4x10 cab with open midrange for cutting lead guitar tones.|「S-Verb」キャビのオープンなミッドレンジは、カッティングのリード・ギター向けの音色です。|
 |●|Tim Pierce(Studio Ace)|●|●|
 | 14 | Single Coil Neck Grit Sweet Spot |Thick neck single coil tones using the EV12 cab.|「EV12」キャビをを使用した、太いネックのシングルコイル・ギター向けの音色です。|
-| 15 | Tell E So Real It's Scary |Lead mod added for a punchy and smooth distorted sound.|パンチの効いたスムーズなディストーションサウンドを実現するリードモッドを追加しました。|
+| 15 | Tell E So Real It's Scary |Lead mod added for a punchy and smooth distorted sound.|「LEAD」MODにパンチの効いたスムーズなディストーションサウンドを追加しました。|
 | 16 | Ultimate Gib Meets Fen Tone |Warm clean sound with a little breakup for any humbucker or single coil guitar.|あらゆるハムバッカーやシングルコイルギターに適した、少しのブレイクアップを伴う温かみのあるクリーンサウンド。|
 |●|David Ryan Harris(John Mayer)|●|●|
 | 17 | Birmingham Tell E |Punchy EV12 cab dialed in for single coils.|	シングルコイル用のパンチの効いたEV12キャブ。|
