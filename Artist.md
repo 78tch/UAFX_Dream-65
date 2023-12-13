@@ -100,7 +100,7 @@
 | 32 | Clean Your Room |D65 cab with spring reverb and no boost.|「D65」キャビと、スプリングリバーブあり、ブーストなしの音色。|
 | 33 | Don't Blow It |4x10 cab with D-Tex boost and volume maxed on 10.|「4x10」キャビと「D-Tex」MODをブーストさせた音色、ボリュームはフルテンです。|
 | 34 | Swamp Thing |D65 cab with D-Tex boost and spring reverb.|「D65」キャビと「D-Tex」MODにブーストとスプリングリバーブを加えた音色です。|
-| 35 | We're Breakin' Up |D65 cab with lead boost and a touch of spring reverb.|リードブーストとスプリングリバーブのタッチを備えた D65 キャビネット。|
+| 35 | We're Breakin' Up |D65 cab with lead boost and a touch of spring reverb.|「D65」キャビと「LEAD」MODにブーストとスプリングリバーブのタッチを加えた音色。|
   
 [戻る](./README.md)
 
