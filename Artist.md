@@ -83,7 +83,7 @@
 | 20 | Williamsburg's Finest |Lead mod with EV12 cab for aggressive rock guitar rhythm tones.|「LEAD」MODと「EV12」キャビの、アグレッシブなロックギターのリズム用の音色。|
 |●|Jim James(My Morning Jacket)|●|●|
 | 21 | JJs Clean Dream Three |Clean GB25 tone with high headroom for humbucker guitars.|「GB25」キャビのクリーントーンで、高いヘッドルームを備えたハムバッカー・ギター用の音色。|
-| 22 | JJs Clean Dream Two |Clean Boutique D65 cab with high headroom for humbucker guitars.|ハムバッカーギターに適した高いヘッドルームを備えたクリーンブティック D65 キャビネット。|
+| 22 | JJs Clean Dream Two |Clean Boutique D65 cab with high headroom for humbucker guitars.|「D65」キャビのブティック系クリーントーンで、高いヘッドルームを備えたハムバッカーギター用の音色。|
 | 23 | JJs Clean Dream |Clean Sverb 4x10 cab with high headroom for humbucker guitars.|ハムバッカーギター向けの高いヘッドルームを備えたクリーンな Sverb 4x10 キャビネット。|
 |●|Peter "Danish Pete" Honoré|●|●|
 | 24 | Clean Trem Verb |4x10 Sverb cab with a bit of Lead mod added.|4x10 Sverb キャブに Lead Mod を少し追加しました。|
