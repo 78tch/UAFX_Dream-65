@@ -94,7 +94,7 @@
 |●|Nels Cline(Wilco)|●|●|
 | 29 | Clean n Warm |Use with single coils for a clean and warm tone.|シングルコイルのギターと組み合わせれば、クリーンで温かみのあるトーンが得られます。|
 |●|Justus West(John Legend)|●|●|
-| 30 | Dreamy Chord Tones |GB25 cab with a little clean boost added.|GB25キャブに少しクリーンブーストを加えたもの。|
+| 30 | Dreamy Chord Tones |GB25 cab with a little clean boost added.|「GB25」キャビに、少しクリーンブーストを加えた音色。|
 | 31 | Rolled Back Volume |Oxford cab with D-Tex mod enabled for extra midrange.|D-Tex MOD を有効にしたオックスフォード キャブによりミッドレンジが強化されています。|
 |●|Lincoln Brewster|●|●|
 | 32 | Clean Your Room |D65 cab with spring reverb and no boost.|D65 キャビネット、スプリングリバーブあり、ブーストなし。|
