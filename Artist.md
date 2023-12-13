@@ -71,9 +71,9 @@
 | 10 | Empty Venue Soundcheck |Big spring reverb space and overdriven amp that goes great with any guitar.|スプリングリバーブの広大な空間感とオーバードライブが掛かったアンプは、どんなギターにもマッチします。|
 | 11 | Hum On Loosely |Classic 70s rock rhythm guitar sounds. Goes great with humbuckers.|クラシックな70年代ロックのリズムギターサウンド。ハムバッカーとの相性は抜群です。|
 | 12 | Strattlin' Bones |Big tremolo and spring reverb tones with EV12 cab.|ビッグ・トレモロとスプリングリバーブ・トーンを「EV12」キャビで。|
-| 13 | Take The Solo |Sverb 4x10 cab with open midrange for cutting lead guitar tones.|リードギタートーンをカットするためのオープンミッドレンジを備えたSverb 4x10キャビネット。|
+| 13 | Take The Solo |Sverb 4x10 cab with open midrange for cutting lead guitar tones.|「S-Verb」キャビのオープンなミッドレンジは、カッティングのリード・ギター向けの音色です。|
 |●|Tim Pierce(Studio Ace)|●|●|
-| 14 | Single Coil Neck Grit Sweet Spot |Thick neck single coil tones using the EV12 cab.|EV12キャブを使用した太いネックのシングルコイルトーン。|
+| 14 | Single Coil Neck Grit Sweet Spot |Thick neck single coil tones using the EV12 cab.|「EV12」キャビをを使用した、太いネックのシングルコイル・ギター向けの音色です。|
 | 15 | Tell E So Real It's Scary |Lead mod added for a punchy and smooth distorted sound.|パンチの効いたスムーズなディストーションサウンドを実現するリードモッドを追加しました。|
 | 16 | Ultimate Gib Meets Fen Tone |Warm clean sound with a little breakup for any humbucker or single coil guitar.|あらゆるハムバッカーやシングルコイルギターに適した、少しのブレイクアップを伴う温かみのあるクリーンサウンド。|
 |●|David Ryan Harris(John Mayer)|●|●|
