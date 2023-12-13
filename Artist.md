@@ -80,7 +80,7 @@
 | 17 | Birmingham Tell E |Punchy EV12 cab dialed in for single coils.|	パンチの効いた「EV12」キャビの音色で、シングルコイルのギター向け。|
 | 18 | Eviction |GB25 with cranked up amp tones using D-Tex mod for that classic on 10 sound.|「GB25」キャビと音量を上げたアンプの音。「D-Tex」MODのクラシックなフルテンの音色です。|
 | 19 | Shag Carpet |Big and smooth clean amp tone with EV12 cab.|「EV12」キャビの、大きく滑らかなクリーンアンプトーン。|
-| 20 | Williamsburg's Finest |Lead mod with EV12 cab for aggressive rock guitar rhythm tones.|アグレッシブなロックギターのリズムトーンを実現するEV12キャビネットを備えたリードモッド。|
+| 20 | Williamsburg's Finest |Lead mod with EV12 cab for aggressive rock guitar rhythm tones.|「LEAD」MODと「EV12」キャビの、アグレッシブなロックギターのリズム用の音色。|
 |●|Jim James(My Morning Jacket)|●|●|
 | 21 | JJs Clean Dream Three |Clean GB25 tone with high headroom for humbucker guitars.|ハムバッカーギター向けの高いヘッドルームを備えたクリーンな GB25 トーン。|
 | 22 | JJs Clean Dream Two |Clean Boutique D65 cab with high headroom for humbucker guitars.|ハムバッカーギターに適した高いヘッドルームを備えたクリーンブティック D65 キャビネット。|
