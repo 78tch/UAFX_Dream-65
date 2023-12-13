@@ -82,7 +82,7 @@
 | 19 | Shag Carpet |Big and smooth clean amp tone with EV12 cab.|「EV12」キャビの、大きく滑らかなクリーンアンプトーン。|
 | 20 | Williamsburg's Finest |Lead mod with EV12 cab for aggressive rock guitar rhythm tones.|「LEAD」MODと「EV12」キャビの、アグレッシブなロックギターのリズム用の音色。|
 |●|Jim James(My Morning Jacket)|●|●|
-| 21 | JJs Clean Dream Three |Clean GB25 tone with high headroom for humbucker guitars.|ハムバッカーギター向けの高いヘッドルームを備えたクリーンな GB25 トーン。|
+| 21 | JJs Clean Dream Three |Clean GB25 tone with high headroom for humbucker guitars.|「GB25」キャビのクリーントーンで、高いヘッドルームを備えたハムバッカー・ギター用の音色。|
 | 22 | JJs Clean Dream Two |Clean Boutique D65 cab with high headroom for humbucker guitars.|ハムバッカーギターに適した高いヘッドルームを備えたクリーンブティック D65 キャビネット。|
 | 23 | JJs Clean Dream |Clean Sverb 4x10 cab with high headroom for humbucker guitars.|ハムバッカーギター向けの高いヘッドルームを備えたクリーンな Sverb 4x10 キャビネット。|
 |●|Peter "Danish Pete" Honoré|●|●|
