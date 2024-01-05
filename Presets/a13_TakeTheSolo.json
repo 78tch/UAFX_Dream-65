@@ -1,0 +1,834 @@
+    {
+        "device_type_id": "dream",
+        "uid": "0c589e61800c496b82dce0588500d87c",
+        "folder": "Factory",
+        "name": "000000_Take The Solo_super_normal",
+        "description": "Sverb 4x10 cab with open midrange for cutting lead guitar tones.",
+        "image": "derek_wells.png",
+        "version": 2,
+        "tags": [
+            "artist",
+            "derek_wells"
+        ],
+        "data": {
+            "properties": {
+                "split_key": 60
+            },
+            "buses": {
+                "a9aed57a911d41208d3b24b1ff5cfd78": {
+                    "properties": {
+                        "uid": "a9aed57a911d41208d3b24b1ff5cfd78",
+                        "name": "MASTER"
+                    },
+                    "effects": {
+                        "tape": {
+                            "properties": {
+                                "plugin_id": ""
+                            }
+                        },
+                        "bus_input": {
+                            "properties": {
+                                "plugin_id": ""
+                            }
+                        },
+                        "channel_strip": {
+                            "properties": {
+                                "plugin_id": ""
+                            }
+                        },
+                        "channel_strip_sub": {
+                            "properties": {
+                                "plugin_id": ""
+                            }
+                        },
+                        "effect_0": {
+                            "properties": {
+                                "plugin_id": ""
+                            }
+                        },
+                        "effect_1": {
+                            "properties": {
+                                "plugin_id": ""
+                            }
+                        },
+                        "effect_2": {
+                            "properties": {
+                                "plugin_id": ""
+                            }
+                        },
+                        "effect_3": {
+                            "properties": {
+                                "plugin_id": ""
+                            }
+                        },
+                        "sidechain_filter": {
+                            "properties": {
+                                "plugin_id": ""
+                            }
+                        },
+                        "bus_compressor": {
+                            "properties": {
+                                "plugin_id": ""
+                            }
+                        }
+                    },
+                    "controls": {
+                        "solo": {
+                            "properties": {
+                                "real_value": 0
+                            }
+                        },
+                        "solo_safe": {
+                            "properties": {
+                                "real_value": 0
+                            }
+                        }
+                    },
+                    "outputs": {
+                        "main": {
+                            "controls": {
+                                "gain": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "pan_left": {
+                                    "properties": {
+                                        "real_value": -1
+                                    }
+                                },
+                                "pan_right": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "mute": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "gain_trim": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "tracks": {
+                "0d0a954cd6fb4ce180b5569db66e9bb4": {
+                    "properties": {
+                        "uid": "0d0a954cd6fb4ce180b5569db66e9bb4",
+                        "name": "SLOT 1",
+                        "track_type": "audio",
+                        "stem_format": "mono",
+                        "transpose": 0,
+                        "midi_input_channel": 0
+                    },
+                    "effects": {
+                        "tape": {
+                            "properties": {
+                                "plugin_id": ""
+                            }
+                        },
+                        "channel_strip": {
+                            "properties": {
+                                "plugin_id": ""
+                            }
+                        },
+                        "channel_strip_sub": {
+                            "properties": {
+                                "plugin_id": ""
+                            }
+                        },
+                        "effect_0": {
+                            "properties": {
+                                "plugin_id": ""
+                            }
+                        },
+                        "effect_1": {
+                            "controls": {
+                                "boost_mode": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "boost_on": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "cabinet": {
+                                    "properties": {
+                                        "real_value": 5
+                                    }
+                                },
+                                "close_mic_1": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "close_mic_1_axis": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "close_mic_1_hp": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "close_mic_2": {
+                                    "properties": {
+                                        "real_value": 4
+                                    }
+                                },
+                                "close_mic_2_axis": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "close_mic_2_hp": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "input_gain": {
+                                    "properties": {
+                                        "real_value": 5.891574859619141
+                                    }
+                                },
+                                "inten": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "lead_boost": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "mic_1_gain": {
+                                    "properties": {
+                                        "real_value": 4.019999980926514
+                                    }
+                                },
+                                "mic_2_gain": {
+                                    "properties": {
+                                        "real_value": -45
+                                    }
+                                },
+                                "output_gain": {
+                                    "properties": {
+                                        "real_value": -11.695157051086426
+                                    }
+                                },
+                                "power": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "power_gain": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "speed": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "trem_on": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "verb": {
+                                    "properties": {
+                                        "real_value": 2.204395532608032
+                                    }
+                                },
+                                "verb_on": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "vib_bass": {
+                                    "properties": {
+                                        "real_value": 2.514285802841187
+                                    }
+                                },
+                                "vib_bright": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "vib_treb": {
+                                    "properties": {
+                                        "real_value": 4.538461685180664
+                                    }
+                                },
+                                "vib_vol": {
+                                    "properties": {
+                                        "real_value": 9.665599822998049
+                                    }
+                                }
+                            },
+                            "properties": {
+                                "plugin_id": "uaudio_dream_65_pedal",
+                                "preset_uid": null,
+                                "preset_name": null
+                            }
+                        },
+                        "effect_2": {
+                            "properties": {
+                                "plugin_id": ""
+                            }
+                        },
+                        "effect_3": {
+                            "properties": {
+                                "plugin_id": ""
+                            }
+                        },
+                        "sidechain_filter": {
+                            "properties": {
+                                "plugin_id": ""
+                            }
+                        }
+                    },
+                    "controls": {
+                        "solo": {
+                            "properties": {
+                                "real_value": 0
+                            }
+                        },
+                        "solo_safe": {
+                            "properties": {
+                                "real_value": 0
+                            }
+                        }
+                    },
+                    "outputs": {
+                        "main": {
+                            "controls": {
+                                "gain": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "pan": {
+                                    "properties": {
+                                        "real_value": -1
+                                    }
+                                },
+                                "mute": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "gain_trim": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                }
+                            }
+                        },
+                        "send_0": {
+                            "controls": {
+                                "gain": {
+                                    "properties": {
+                                        "real_value": -144
+                                    }
+                                },
+                                "pan": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "mute": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "pre_fader": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "enabled": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "gain_trim": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                }
+                            }
+                        },
+                        "send_1": {
+                            "controls": {
+                                "gain": {
+                                    "properties": {
+                                        "real_value": -144
+                                    }
+                                },
+                                "pan": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "mute": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "pre_fader": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "enabled": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "gain_trim": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                }
+                            }
+                        },
+                        "send_2": {
+                            "controls": {
+                                "gain": {
+                                    "properties": {
+                                        "real_value": -144
+                                    }
+                                },
+                                "pan": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "mute": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "pre_fader": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "enabled": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "gain_trim": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                }
+                            }
+                        },
+                        "send_3": {
+                            "controls": {
+                                "gain": {
+                                    "properties": {
+                                        "real_value": -144
+                                    }
+                                },
+                                "pan": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "mute": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "pre_fader": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "enabled": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "gain_trim": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "8e87ae5947c24ee296986937ca7992c4": {
+                    "properties": {
+                        "uid": "8e87ae5947c24ee296986937ca7992c4",
+                        "name": "SLOT 2",
+                        "track_type": "audio",
+                        "stem_format": "mono",
+                        "transpose": 0,
+                        "midi_input_channel": 0
+                    },
+                    "effects": {
+                        "tape": {
+                            "properties": {
+                                "plugin_id": ""
+                            }
+                        },
+                        "channel_strip": {
+                            "properties": {
+                                "plugin_id": ""
+                            }
+                        },
+                        "channel_strip_sub": {
+                            "properties": {
+                                "plugin_id": ""
+                            }
+                        },
+                        "effect_0": {
+                            "properties": {
+                                "plugin_id": ""
+                            }
+                        },
+                        "effect_1": {
+                            "controls": {
+                                "boost_mode": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "boost_on": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "cabinet": {
+                                    "properties": {
+                                        "real_value": 5
+                                    }
+                                },
+                                "close_mic_1": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "close_mic_1_axis": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "close_mic_1_hp": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "close_mic_2": {
+                                    "properties": {
+                                        "real_value": 4
+                                    }
+                                },
+                                "close_mic_2_axis": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "close_mic_2_hp": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "input_gain": {
+                                    "properties": {
+                                        "real_value": 5.891574859619141
+                                    }
+                                },
+                                "inten": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "lead_boost": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "mic_1_gain": {
+                                    "properties": {
+                                        "real_value": 4.019999980926514
+                                    }
+                                },
+                                "mic_2_gain": {
+                                    "properties": {
+                                        "real_value": -45
+                                    }
+                                },
+                                "output_gain": {
+                                    "properties": {
+                                        "real_value": -11.695157051086426
+                                    }
+                                },
+                                "power": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "power_gain": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "speed": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "trem_on": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "verb": {
+                                    "properties": {
+                                        "real_value": 2.204395532608032
+                                    }
+                                },
+                                "verb_on": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "vib_bass": {
+                                    "properties": {
+                                        "real_value": 2.514285802841187
+                                    }
+                                },
+                                "vib_bright": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "vib_treb": {
+                                    "properties": {
+                                        "real_value": 4.538461685180664
+                                    }
+                                },
+                                "vib_vol": {
+                                    "properties": {
+                                        "real_value": 9.665599822998049
+                                    }
+                                }
+                            },
+                            "properties": {
+                                "plugin_id": "uaudio_dream_65_pedal",
+                                "preset_uid": null,
+                                "preset_name": null
+                            }
+                        },
+                        "effect_2": {
+                            "properties": {
+                                "plugin_id": ""
+                            }
+                        },
+                        "effect_3": {
+                            "properties": {
+                                "plugin_id": ""
+                            }
+                        },
+                        "sidechain_filter": {
+                            "properties": {
+                                "plugin_id": ""
+                            }
+                        }
+                    },
+                    "controls": {
+                        "solo": {
+                            "properties": {
+                                "real_value": 0
+                            }
+                        },
+                        "solo_safe": {
+                            "properties": {
+                                "real_value": 0
+                            }
+                        }
+                    },
+                    "outputs": {
+                        "main": {
+                            "controls": {
+                                "gain": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "pan": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "mute": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "gain_trim": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                }
+                            }
+                        },
+                        "send_0": {
+                            "controls": {
+                                "gain": {
+                                    "properties": {
+                                        "real_value": -144
+                                    }
+                                },
+                                "pan": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "mute": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "pre_fader": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "enabled": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "gain_trim": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                }
+                            }
+                        },
+                        "send_1": {
+                            "controls": {
+                                "gain": {
+                                    "properties": {
+                                        "real_value": -144
+                                    }
+                                },
+                                "pan": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "mute": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "pre_fader": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "enabled": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "gain_trim": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                }
+                            }
+                        },
+                        "send_2": {
+                            "controls": {
+                                "gain": {
+                                    "properties": {
+                                        "real_value": -144
+                                    }
+                                },
+                                "pan": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "mute": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "pre_fader": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "enabled": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "gain_trim": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                }
+                            }
+                        },
+                        "send_3": {
+                            "controls": {
+                                "gain": {
+                                    "properties": {
+                                        "real_value": -144
+                                    }
+                                },
+                                "pan": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "mute": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "pre_fader": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                },
+                                "enabled": {
+                                    "properties": {
+                                        "real_value": 1
+                                    }
+                                },
+                                "gain_trim": {
+                                    "properties": {
+                                        "real_value": 0
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "motion": {}
+        }
+    }
